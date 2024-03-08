@@ -27,9 +27,7 @@ open the files in Visual Studio Code.
 
 ## Create an Ordered HTML List
 
-Think of a collection of things united by theme: Pokémon, Old-school MC's, Prime
-Ministers of New Zealand, Magical Beasts and Where to Find Them, etc. We're
-going to walk through how to create a list of things marked up with HTML.
+
 
 ### Create a Text File with Content
 
